@@ -8,7 +8,7 @@ url: "https://msr4sa.github.io"
 # baseurl: ""
 
 # Name of website
-title: "MSR4SA Workshop"
+title: "MSR4SA 2021"
 
 # Short description of your site
 description: "Official website of International Workshop on MSR for Software Architecture"
@@ -178,7 +178,6 @@ exclude:
   - README.md
   - Vagrantfile
 
-# prose.io config
 prose:
   rooturl: '_posts'
   media: 'img'
