@@ -1,2 +1,3 @@
-# msr4sa.github.io
-Official website of RoSE International Workshop on MSR 4 Software Architecture
+# RoSE 
+
+Official website of the RoSE international workshop series on Robotics Software Engineering
