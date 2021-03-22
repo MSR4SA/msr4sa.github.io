@@ -16,7 +16,7 @@ description: "Official website of International Workshop on MSR for Software Arc
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-# navbar-links:
+navbar-links:
   # About: "about"
   # People: "people"
   # Publications: "publications"
