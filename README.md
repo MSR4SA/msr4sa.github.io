@@ -1,3 +1,3 @@
 # RoSE 
 
-Official website of the RoSE international workshop series on Robotics Software Engineering
+Official website of the international workshop on Mining Software Repositories for Software Architecture
