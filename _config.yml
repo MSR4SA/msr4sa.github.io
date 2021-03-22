@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://msr4sa.github.io" 
-baseurl: ""
+# baseurl: ""
 
 # Name of website
 title: "MSR4SA Workshop"
